@@ -79,7 +79,7 @@ archaeological-ai/
 ## Task List
 
 ### Phase 1 - Data Pipeline
-- [ ] Fetch known archaeological sites from Pleiades/OpenContext API
+- [x] Fetch known archaeological sites from Pleiades/OpenContext API
 - [ ] Store sites in PostgreSQL with coordinates, civilization, period
 - [ ] Connect to Google Earth Engine and fetch Sentinel-2 imagery
 - [ ] Download NASA SRTM elevation data for terrain features
