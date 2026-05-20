@@ -1,0 +1,21 @@
+# Core
+requests>=2.31.0
+tqdm>=4.66.0
+
+# ML / Geo (Phase 2+)
+# torch
+# torchvision
+# rasterio
+# geopandas
+# scikit-learn
+
+# Agents (Phase 3+)
+# langgraph
+# langchain-groq
+
+# Backend (Phase 4+)
+# fastapi
+# uvicorn
+# sqlalchemy
+# psycopg2-binary
+# apscheduler

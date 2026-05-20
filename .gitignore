@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Data files (large, generated — run fetch_sites.py to reproduce)
+data/*.json
+data/*.csv
+data/*.tif
+data/*.geojson
+data/*.gz
+data/raw/
+
+# Outputs (generated)
+outputs/
+
+# Env / secrets
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
