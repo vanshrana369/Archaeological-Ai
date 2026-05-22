@@ -10,7 +10,7 @@ An AI system that discovers hidden archaeological sites worldwide using satellit
 - Uses a Computer Vision model to detect archaeological anomalies in satellite bands
 - Cross-references terrain, elevation, river proximity, and historical trade routes
 - 4 AI agents analyze and generate a full discovery report automatically
-- Interactive world map showing probability heatmap of undiscovered sites
+- Interactive World map showing probability heatmap of undiscovered sites
 - Researchers can validate or reject findings, improving the model over time
 
 ---
